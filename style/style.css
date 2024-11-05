@@ -1,0 +1,18 @@
+.box {
+    background-color: rgb(154, 50, 252);
+    color: bisque;
+    width: 100px;
+    height: 200px;
+}
+
+.box2 {
+    background-color: rgb(0, 0, 0);
+    color: beige;
+    width: 200px;
+    height: 400px;
+}
+
+#corpo
+{
+    background-color: rgb(255, 232, 197);
+}
